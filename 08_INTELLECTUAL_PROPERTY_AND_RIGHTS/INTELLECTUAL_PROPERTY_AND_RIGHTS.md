@@ -1,0 +1,25 @@
+# Intellectual Property and Rights — EVERSHOP
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** EVERSHOP | Category: ONLINE_RETAIL
+**Upstream:** https://github.com/evershopcommerce/evershop (GPL)
+
+## Overview
+
+This document covers intellectual property and rights for the Anticloud integration of EVERSHOP.
+
+Node.js e-commerce framework
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into EVERSHOP to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
