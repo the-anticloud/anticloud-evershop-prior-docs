@@ -301,8 +301,7 @@ Upstream © its respective contributors under GPL-3.0 (harvested MIT/Apache-2.0/
 ## Benchmarks
 
 Measured by the Anticloud assurance suite. Every value below is read from this
-project's `BENCH.json`, produced by a real run — the SHA3-256 of that file is
-`9af6357a3afd60a9f622a352af474f88649e4d495ec4e829ebcc4954fa6eb60b`.
+project's `BENCH.json`, produced by a real run — the SHA3-256 of `BENCH.json`: `82d641e40c93ef01d8149b6e7057be2b041a49ab6590eceeaf8a8540da151109`.
 
 | Framework | Controls | Evidence | Coverage | Result |
 |---|---|---|---|---|
